@@ -1,0 +1,147 @@
+body{
+    background-color:#737373;
+}
+  .footer-groupe-css-list li{
+      list-style: none;
+      color: blanchedalmond;
+      font-size: 14px;
+      margin-top: 25px;
+  }
+  .footer-groupe-css-title{
+    margin-left: 38px;
+    font-size: 20px;
+  }
+
+  footer{
+      display: flex;
+      justify-content: space-between;
+  }
+
+
+  a{
+      color: floralwhite;
+      text-decoration: none;
+  }
+  #top{
+      color: black;
+  }
+  .social-media{
+      cursor: pointer;
+      bottom: 0;
+  }
+  header nav .menu a:hover {
+    color: rgb(0, 0, 0);
+  }
+  i{
+      font-size: 30px;
+      color: black;
+  }
+  .copyrigt {
+    display: flex;
+    
+
+}
+  h4{
+      margin-right: 20px;
+  }
+  .footer{
+      display: flex;
+      justify-content: space-between;
+  }
+  header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    top:0;
+  }
+  .menu{
+      display:flex;
+      margin-right:-80px;
+  }
+  .menu-item{
+      list-style: none;
+      margin-right:100px;  
+  }
+  .A1{
+      text-align: center;
+      color: white;
+      font-size: 32px;
+  }
+
+  .A11{
+    color: black;
+    font-size: 20px;
+
+  }
+  .AC1{
+    text-align: center;
+    color: white;
+    font-size: 32px;
+}
+  #AC{
+      display: flex;
+      justify-content: space-between;
+  }
+
+  #C h1{
+    text-align: center;
+    color: white;
+  }
+  .P1{
+    text-align: center;
+    color: white;
+    font-size: 32px;
+}
+#C .cal1{
+    background-color: white;
+    width: 400px ;
+    height: 400px;
+}
+#C .cal2{
+    background-color: white;
+    width: 400px ;
+    height: 400px;
+}
+#C .cal3{
+    background-color: white;
+    width: 400px ;
+    height: 400px;
+}
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+td{
+    color: white;
+    
+}
+#V1 .VD1{
+    background-color: white;
+    width: 700px ;
+    height: 400px;
+     align-items: center;
+
+}
+
+.V{
+    text-align: center;
+    color: white;
+  }
+  #V1{
+      display: flex;
+      justify-content: right;
+      
+
+  }
+  .VD1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  table {
+    border-spacing: 15px;
+  }
+
